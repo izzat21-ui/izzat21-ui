@@ -7,13 +7,13 @@
 
 - 🔭 Self Employed
 - 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot**
-- 📫 How to reach me [**masterfamily23@gmail.com**](mailto:absaitovdev@gmail.com)
+- 📫 How to reach me [**masterfamily23@gmail.com**](mailto:masterfamily23@gmail.com)
 
 
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://dilshod_absaitov.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilshod-absaitov/)  [![Gmail](https://img.shields.io/badge/rvkamronbek@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:absaitovdev@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/dilshod3239/)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://Izzat.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Izzat/)  [![Gmail](https://img.shields.io/badge/rvkamronbek@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:masterfamily23@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/Izzat/)
 
 
 # 💻 Tech Stack:
@@ -57,7 +57,7 @@
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izzat21-ui&theme=tokyonight">
 <br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=izzat21-ui&theme=tokyonight&hide_border=true" alt="Dilshodbek">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=izzat21-ui&theme=tokyonight&hide_border=true" alt="Izzat">
 
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=izzat21-ui&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
